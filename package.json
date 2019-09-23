@@ -29,7 +29,6 @@
   "dependencies": {
     "amazon-cognito-identity-js": "^3.0.15",
     "aws-sdk": "^2.533.0",
-    "jwt-decode": "^2.2.0",
     "node-fetch": "^2.6.0"
   }
 }
